@@ -12,7 +12,7 @@ at the PI_ENTITY_FK level.
 
 The segmentation will inform future CRM activities and will prove useful for targeting purposes. 
 
-## Prototyping/Phase1
+## Segmentation Overview
 
 ### Part I
 
