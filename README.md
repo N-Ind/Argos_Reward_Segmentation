@@ -1,8 +1,5 @@
 # This is the repository for the Argos reward segmentation
 
-There are 4 iterations in this repository, the most recent of which is ARGOS_V4.sql, it is the best attempt at a demographic-moneytary based segmentation. 
-The version 4 scriot is the most recent and thus should be the one that is iterated upon. 
-
 ## Objective
 
 The aim of this project is to come up with a rewards segmentation for Argos, based on several factors. The segmentation is broken down into two main streams, 
