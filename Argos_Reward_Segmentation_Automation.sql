@@ -384,7 +384,7 @@ var SQL_COMMMAND_14 = `create or replace temp table Argos_Profile_Account_Numb a
                                                                      inner join NDWHS_PROD.NDWHS_PL.FULL_CARD b
                                                                                 on a.HASH_NECTAR_COLLECTOR_CARD_NUM = b.loyalty_id);`;
 
-var SQL_COMMAND_15 = `create or replace table Argos_Reward_Segmentation as
+var SQL_COMMAND_15 = `insert into Argos_Reward_Segmentation as
                                           (select distinct      b.PI_ENTITY_FK,
                                                                 a.*,
                                                                 b.CURRENT_VALUE_SCORE,
